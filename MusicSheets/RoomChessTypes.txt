@@ -1,0 +1,9 @@
+Den - pawn
+Observatory - knight
+Chapel - bishop
+Ladyship chamber - queen  purple flag
+Soplarium - pawn
+clock tower - rook
+bookstore - bishop
+rumpus room - bishop
+study - king

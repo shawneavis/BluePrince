@@ -1,0 +1,79 @@
+Sat = 1
+Sun = 2
+Mon = 3
+Tue = 4
+Wed = 5
+Thur = 6
+Fri = 7
+
+day 1 = Sat, Nov 7
+
+day of week = ((day + 5 ) mod 7) + 1
+
+114 = 2 ( Sun)
+
+Day 124 =   Wed Mar 10
+
+Day 126 = Fri Mar 12
+
+Prism key for treasure trove ?
+
+1 = Sun
+2 = Mon
+3 = Tue
+4 = Wed
+
+magnify glass for stamps in mailroom	DONE
+fire lighter for campfire in bunkroom ? NO
+
+
+Patry	word 'Coffe' missing an E
+Commissaery - missing E in Coffee
+Foyer : missing 'H' in Nicolas Key IV
+
+architecture digest - floorplans of you - dig / treasure map in bunk room / dormitory ?
+
+Grid pattern in bottom of boiler room ?
+
+broken wall in corner of courtyard ?
+
+Breakable panel in throne Room ? no
+
+
+Coat of arms :
+
+MCCXIII
+
+1000 200 9 2
+
+
+EACH Puzzle:
+
+Pantry provides 'E'
+
+Missing space with Pantry + Passageways? no ( used 2 pantries)
+Spelling EACH in succession? noW
+
+Involve each color ? what to use for green? Mornong room ? Red = lavatory ?
+Reverse order ?
+
+Diagonal dead ends
+
+Bunk room
+master bedroom
+morning room
+
+
+angel info:
+
+orinda	-	royalty
+Lydia   - 	rider
+rynna	-	gardener with hoe
+Joya    -	baker
+dauja	-	farmer with farmer hat / pitchfork
+veia 	-	duster
+mila	-	cleaning maid broom apron
+draxus	-	skeleton drafter
+
+
+

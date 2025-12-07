@@ -1,0 +1,20 @@
+TENDER CIPHER = THE RED PRINCE				RED	
+
+Assume page count starts on title pages
+
+RED : PAGE A WORD X
+
+X -> Y -> Z -> A -> B -> C
+1 -> 2 -> 3 -> 4 -> 5 -> 6	??
+
+
+		single		double
+
+A,X	4,1	the		He
+B,Y	5,2			he
+C,Z	6,3	not		always
+X,A	1,4	by		by			(magnified test: uncle)
+Y,B	2,5	prince		prince	
+Z,C	3,6			for
+
+hallway

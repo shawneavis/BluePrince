@@ -1,0 +1,27 @@
+nursery
+storeroom
+planetarium
+terrace
+garage
+study
+
+nursery
+clock tower
+storeroom
+terrace
+garage
+study
+
+nursery
+clock tower
+laundry room
+terrace
+planetarium
+foyer
+
+draft last deadend from foyer ?
+
+ma|jor = my name
+
+major Nicolas key IV 
+

@@ -1,0 +1,29 @@
+tube + tub (1,	 5)
+coat + coast (5, 6)
+tent + ten) (5, 5)
+paint + pint (3, 7)
+pine + pin (1, 4)
+stag + tag (1	, 5)
+road + rod (3, 3)
+bridge + bride (3, 2)
+plane + plan (1, 2)
+stairs + stars (2, 2)
+tie + tier (2, 3)
+crow + row (1, 3)
+clock + lock (4, 3)
+peas + peaks (5, 3)
+sand + and (5, 4)
+car + card (1, 4)
+coat + cot (2, 4)
+
+stage + sage (3, 4) ????
+grain + rain (1, 6)
+pine + spine (1, 7)
+
+(tiger + tier ) (3, 5)
+plane + planet (3, 6)
+cart + car (5,2)
+
+
+
+dessert + desert (?, ?)

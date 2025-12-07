@@ -1,0 +1,42 @@
+Day 95
+
+rook		E1		conservatory
+Queen 		A2		ladyship
+pawn 		C2		den	
+
+Day 96
+
+pawn		E3		Den
+Pawn		D3		Bedroom
+Pawn		E7		Drafting studio
+Rook		E4		Nook
+King		E9		Office
+Queen		C5		Study
+Bishop		D2		Chapel
+Knight		B5		Observatory
+
+Pawn
+
+Den
+Storeroom
+Bedroom
+Dining room
+guest bedroom
+
+Rook
+Nook
+
+Knight
+Observatory
+Treasure trove
+
+Bishop
+Attic
+Chapel
+
+Queen
+Study
+
+King
+
+Office

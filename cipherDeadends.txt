@@ -1,0 +1,112 @@
+DEADEND ROOMS:
+
+BEDROOM CLOSET
+WALK-IN CLOSET
+ATTIC
+STOREROOM
+GARAGE
+WINE CELLAR
+VAULT
+STUDY
+CHAMBER OF MIRRORS
+UTILITY CLOSET
+SAUNA
+COAT CHECK
+MAIL ROOM
+FREEZER
+
+QUEST BEDROOM	(Guest)
+NURSERY
+SERVANTS QUARTERS
+BUNK ROOM
+HER LADYSHIPS CHAMBERS
+MASTER BEDROOM
+
+SECRET PASSAGE
+
+TERRACE
+
+LOCKSMITH
+LAUNDRY ROOM
+
+LAVATORY
+FURNACE
+
+CLOCK TOWER
+SOLARIUM
+DORMITORY
+
+PLANETARIUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X:
+
+A,X	4,1	the		He
+X,A	1,4	by		by			(magnified test: uncle)
+
+X,B	1,5     the		the
+Z,X	3,1	this		the
+
+X,A	1,4	by		by
+A,X	4,1	he		he
+
+Z,X	3,1	This		North
+X,B	1,5	stargazer's	stargazer's
+
+
+
+Y:
+
+B,Y	5,2			he
+Y,B	2,5	prince		prince	
+
+Y,C	2,6	the		the
+A,Y	4,2	sigil		core
+
+B,Y	5,2			looked
+Y,B	2,5	to		to
+
+A,Y	4,2			Twins
+Y,C	2,6			complete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

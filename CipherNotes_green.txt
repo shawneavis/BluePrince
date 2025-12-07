@@ -1,0 +1,20 @@
+LUNAR RENAMED = REALM AND RUNE				GREEN
+
+Assume page count starts on title pages
+
+GREEN : PAGE C WORD A			
+
+X -> Y -> Z -> A -> B -> C
+1 -> 2 -> 3 -> 4 -> 5 -> 6	??
+
+				single 	double
+
+C,A	=	6,4	=	the	routes
+X,B	=	1,5     =	the	the
+Y,C	=	2,6	=	the	the
+Z,X	=	3,1	=	this	the
+A,Y	=	4,2	=	sigil	core
+B,Z	=	5,3	=	the	spouting
+
+storeroom
+store
