@@ -75,5 +75,17 @@ veia 	-	duster
 mila	-	cleaning maid broom apron
 draxus	-	skeleton drafter
 
+Room with statues:
+
+Entrance hall
+Foyer
+Office
+
+Rooms with fingers
+
+Foyer
+Office
+Bedroom
+
 
 
