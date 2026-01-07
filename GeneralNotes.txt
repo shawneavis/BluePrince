@@ -88,9 +88,6 @@ Office
 Bedroom
 
 
-CHECK BLUEPRINT ABOUT EXTRA SPACE BETWEEN ROOMS
-
-
 FLIGHT OF THE QUEEN
 Je Ari Yenna
 
@@ -102,13 +99,18 @@ FALL OF THE LORD
 Lord William Epsen - Entrance
 
 PASSING OF THE BARONS
-Baron Tomas Sinclair - Entrance
+Baron Tomas Sinclair - Entrance, picture in Attic ?
 Baron Edwin Sinclair
 
 HERRINGS OF THE MAJOR
 Major Nicolas Key IV - Foyer
 
 Dead Herrings : lavatory, closet, attic, furnace, solarium
+
+
+hole in lavatory wall?
+
+water in darkroom tray for picture ?
 
 
 
