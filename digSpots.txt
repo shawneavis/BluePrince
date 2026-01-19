@@ -1,4 +1,9 @@
 Bedroom	- Baron's Baffler
 Bunk room - none
 Dormitory - none
-Laboratory - none (e, 8) - concrete box with nothin in it
+Laboratory - none (e, 8) - concrete box with nothing in it
+attic (B, 6) none
+mirror room (B, 6) none
+passageway (B, 6) none
+wine cellar ( B, 6) none
+aquarium ( B, 6) none
