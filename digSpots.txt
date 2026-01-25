@@ -7,3 +7,8 @@ mirror room (B, 6) none
 passageway (B, 6) none
 wine cellar ( B, 6) none
 aquarium ( B, 6) none
+clock tower (B, 6) none
+treasure trove (B, 6) none
+pool (B, 6) keypad can't be touched
+freezer (B, 6) pipes can't be touched
+
