@@ -11,4 +11,9 @@ clock tower (B, 6) none
 treasure trove (B, 6) none
 pool (B, 6) keypad can't be touched
 freezer (B, 6) pipes can't be touched
+ballroom (B, 6) cracked floor none
+great hall (B, 6) cracked floor none
+closed exhibit ( B, 6) none
+office ( B, 6) none
+
 
