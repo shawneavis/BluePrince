@@ -15,5 +15,13 @@ ballroom (B, 6) cracked floor none
 great hall (B, 6) cracked floor none
 closed exhibit ( B, 6) none
 office ( B, 6) none
+mail room ( B, 6) none
+pantry ( B, 6) none
+vault ( B, 6) none
+kennel ( B, 6) none
+
+
+
+
 
 
