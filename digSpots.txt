@@ -19,6 +19,8 @@ mail room ( B, 6) none
 pantry ( B, 6) none
 vault ( B, 6) none
 kennel ( B, 6) none
+drawing room ( D, 6) none
+
 
 
 
