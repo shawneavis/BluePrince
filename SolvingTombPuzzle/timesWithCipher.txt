@@ -1,0 +1,63 @@
+C I X
+A D D
+S I X
+T O R			7:32
+L O R
+E T T			5:00
+
+
+
+
+TOR = 180 + 46 deg
+226 DEG
+452 minutes = 7H 32M or 9:32 from N=2:00
+
+
+1:09
+1:15
+
+
+
+
+1:09
+7:09
+7:32
+back
+5:00
+
+
+7:15
+rew 7:32
+fwd 5:00
+
+
+
+NUMBERS AS DEGREES
+
+XIX = 109 = 218minutes = 3h38m
+SIX = 6 = 		12min = 3h50
+ETT = 5:00
+
+from 2:00W
+
+
+
+BUTTON PUSHES EACH TIME:
+1:09
+1:15
+9:32
+rew
+1:00
+5:00
+
+1:09
+1:15
+9:32
+rew
+8:00
+5:00
+
+
+
+
+
